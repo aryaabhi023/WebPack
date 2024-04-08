@@ -1,14 +1,14 @@
 {
-  "name": "webpack",
+  "name": "shub-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack template",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abhishek Arya",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.8.1",
